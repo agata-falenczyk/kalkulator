@@ -1,0 +1,7 @@
+C:\Users\agata\Desktop\DANE_SHARP\SzkolenieCSharp_Cwiczenia\SzkolenieCSharp_Cwiczenia\Kalkulator_firstApp\obj\Debug\Kalkulator_firstApp.csprojAssemblyReference.cache
+C:\Users\agata\Desktop\DANE_SHARP\SzkolenieCSharp_Cwiczenia\SzkolenieCSharp_Cwiczenia\Kalkulator_firstApp\obj\Debug\Kalkulator_firstApp.csproj.CoreCompileInputs.cache
+C:\Users\agata\Desktop\DANE_SHARP\SzkolenieCSharp_Cwiczenia\SzkolenieCSharp_Cwiczenia\Kalkulator_firstApp\bin\Debug\Kalkulator_firstApp.exe.config
+C:\Users\agata\Desktop\DANE_SHARP\SzkolenieCSharp_Cwiczenia\SzkolenieCSharp_Cwiczenia\Kalkulator_firstApp\bin\Debug\Kalkulator_firstApp.exe
+C:\Users\agata\Desktop\DANE_SHARP\SzkolenieCSharp_Cwiczenia\SzkolenieCSharp_Cwiczenia\Kalkulator_firstApp\bin\Debug\Kalkulator_firstApp.pdb
+C:\Users\agata\Desktop\DANE_SHARP\SzkolenieCSharp_Cwiczenia\SzkolenieCSharp_Cwiczenia\Kalkulator_firstApp\obj\Debug\Kalkulator_firstApp.exe
+C:\Users\agata\Desktop\DANE_SHARP\SzkolenieCSharp_Cwiczenia\SzkolenieCSharp_Cwiczenia\Kalkulator_firstApp\obj\Debug\Kalkulator_firstApp.pdb
